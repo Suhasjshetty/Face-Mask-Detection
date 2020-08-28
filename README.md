@@ -42,7 +42,7 @@ step 10) In cv2. imshow we use colored frames captured from the webcam.
 
 When we have only white mask dataset, it will detect only when we wear white mask so if we want the model to detect even when we wear a colored mask the output from the webcam should be in grayscale.
 
-Dataset - 
+Dataset - https://github.com/balajisrinivas/Face-Mask-Detection/tree/master/dataset 
 
 The libraries and the step to process is all same as done for colored mask.
 
